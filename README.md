@@ -3,7 +3,7 @@
 O FileFlow é uma ferramenta para conversão de arquivos multimídia. Seja para transformar vídeos em diferentes formatos, converter imagens para formatos específicos ou extrair áudio de vídeos, este aplicativo oferece uma solução intuitiva e eficiente para suas necessidades de conversão.
 
 
-# Como Instalar
+<h2>Como Instalar</h2>
 Baixando e Executando
 
 Clone ou Baixe o Repositório
@@ -13,7 +13,7 @@ $ git clone https://github.com/usuario/repositorio.git
 ```
 Ou faça o download diretamente do GitHub.
 
-# Como usar
+<h2>Como usar</h2>
 # Para converter imagens <br>
 Navegue até o diretorio do app <br>
 
@@ -41,5 +41,5 @@ E o execute o app no terminal 👇<br>
 <li>Conversão de Imagens: Transforme imagens em diferentes formatos, incluindo JPEG, PNG, GIF, TIFF e outros.</li> <br>
 <li>Extração de Áudio: Extraia áudio de vídeos e salve em formatos como MP3. </li>
 </ul> <br>
-# Pré-Requisitos
+<h2>Pré-Requisitos</h2>
 <li>O aplicativo é Compativel com sistemas windows</li>
