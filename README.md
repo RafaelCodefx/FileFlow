@@ -12,6 +12,7 @@ Clone ou Baixe o Repositório
 $ git clone https://github.com/RafaelCodefx/FileFlow.git
 ```
 Ou faça o download diretamente do GitHub.
+Descompate a pasta para uso.
 
 # Como usar
 <h2>Para converter imagens</h2> <br>
