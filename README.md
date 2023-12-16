@@ -4,10 +4,12 @@ O FileFlow é uma ferramenta para conversão de arquivos multimídia. Seja para 
 
 # Como Instalar
 Baixando e Executando
+
 Clone ou Baixe o Repositório
-'''bash
-  git clone link
-'''
+
+```bash
+$ git clone https://github.com/usuario/repositorio.git
+```
 Ou faça o download diretamente do GitHub.
 
 # Como usar
