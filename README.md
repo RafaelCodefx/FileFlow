@@ -37,7 +37,7 @@ E o execute o app no terminal 👇<br>
 
 # Recursos Principais
 <ul>
-<il>Conversão de Vídeos: Converta vídeos para uma variedade de formatos populares, como MP4, AVI, MOV e muito mais.</il> <br>
+<b>.</b>Conversão de Vídeos: Converta vídeos para uma variedade de formatos populares, como MP4, AVI, MOV e muito mais.</il> <br>
 <il>*Conversão de Imagens: Transforme imagens em diferentes formatos, incluindo JPEG, PNG, GIF, TIFF e outros.</il> <br>
 <il>Extração de Áudio: Extraia áudio de vídeos e salve em formatos como MP3. </il>
 </ul> <br>
