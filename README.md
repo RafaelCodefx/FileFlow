@@ -4,22 +4,31 @@ O FileFlow é uma ferramenta para conversão de arquivos multimídia. Seja para 
 
 
 # Como Instalar
-Baixando e Executando
 
-Clone ou Baixe o Repositório
+Baixando e Preparando o Projeto
 
-```bash
-$ git clone https://github.com/RafaelCodefx/FileFlow.git
-```
-Ou faça o download diretamente do GitHub.
-Descompate a pasta para uso.
+## Baixar a Pasta Compactada
+
+1. **Acesse o Link do Google Drive:**
+
+   [Link para a Pasta Compactada](https://drive.google.com/file/d/1qbZh7MU_FVEEmCVUHYEPadY6lzISSlKz/view?usp=sharing)
+
+2. **Faça o Download da Pasta Compactada:**
+
+   Clique no link fornecido para acessar a pasta no Google Drive. Em seguida, clique no botão de download ou utilize o atalho de teclado para baixar a pasta.
+
+3. **Descompacte a Pasta:**
+
+   Após o download, descompacte a pasta para o local desejado em seu computador.
+
+
 
 # Como usar
 <h2>Para converter imagens</h2> <br>
-Navegue até o diretorio do app <br>
+Navegue até o diretorio da pasta descompactada <br>
 
 ``` terminal
-$ cd FileFlow
+$ cd caminho/para/FileFlow
 ```
 Encontre o arquivo executável (.exe) na pasta e execute-o, se prefirir até crie um atalho pra area de trabalho para ser mais facil.
  <br>
@@ -27,7 +36,7 @@ Encontre o arquivo executável (.exe) na pasta e execute-o, se prefirir até cri
 
 Navegue até o diretorio do app
 ``` terminal
-$ cd FileFlow
+$ cd caminho/para/FileFlow
 ```
 
 Clique com o botão direito do mouse e clique em abrir no terminal<br>
