@@ -13,10 +13,10 @@ $ git clone https://github.com/usuario/repositorio.git
 Ou faça o download diretamente do GitHub.
 
 # Como usar
--- Para converter imagens --
+-- Para converter imagens -- <br>
 Navegue até o diretorio do app
 ''' terminal
-  cd FileFlow
+$ cd FileFlow
 '''
 Encontre o arquivo executável (.exe) na pasta e execute-o, se prefirir até crie um atalho pra area de trabalho para ser mais facil.
 
