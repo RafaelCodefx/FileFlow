@@ -25,9 +25,9 @@ Encontre o arquivo executável (.exe) na pasta e execute-o, se prefirir até cri
 <h2>Para converter Videos</h2>
 
 Navegue até o diretorio do app
-''' terminal
-  cd FileFlow 
-'''
+``` terminal
+$ cd FileFlow
+```
 
 Clique com o botão direito do mouse e clique em abrir no terminal<br>
 E o execute o app no terminal 👇<br>
