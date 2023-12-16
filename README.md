@@ -40,6 +40,7 @@ E o execute o app no terminal 👇<br>
  <li>Conversão de Vídeos: Converta vídeos para uma variedade de formatos populares, como MP4, AVI, MOV e muito mais.</li> <br>
 <li>Conversão de Imagens: Transforme imagens em diferentes formatos, incluindo JPEG, PNG, GIF, TIFF e outros.</li> <br>
 <li>Extração de Áudio: Extraia áudio de vídeos e salve em formatos como MP3. </li>
-</ul> <br>
+</ul>
+
 <h2>Pré-Requisitos</h2>
 <li>O aplicativo é Compativel com sistemas windows</li>
