@@ -9,7 +9,7 @@ Baixando e Executando
 Clone ou Baixe o Repositório
 
 ```bash
-$ git clone https://github.com/usuario/repositorio.git
+$ git clone https://github.com/RafaelCodefx/FileFlow.git
 ```
 Ou faça o download diretamente do GitHub.
 
