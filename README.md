@@ -14,7 +14,7 @@ Ou faça o download diretamente do GitHub.
 
 # Como usar
 -- Para converter imagens -- <br>
-Navegue até o diretorio do app
+Navegue até o diretorio do app <br>
 ''' terminal
 $ cd FileFlow
 '''
