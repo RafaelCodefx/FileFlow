@@ -9,9 +9,9 @@ Baixando e Preparando o Projeto
 
 ## Baixar a Pasta Compactada
 
-1. **Acesse o Link do Google Drive:**
+1. **Acesse o Link do MediaFile:**
 
-   [Link para a Pasta Compactada](https://drive.google.com/file/d/1qbZh7MU_FVEEmCVUHYEPadY6lzISSlKz/view?usp=sharing)
+   [Link para a Pasta Compactada](https://www.mediafire.com/file/26hpzqiey9hd9e9/FileFlow.zip/file)
 
 2. **Faça o Download da Pasta Compactada:**
 
