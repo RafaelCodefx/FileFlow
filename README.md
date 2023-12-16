@@ -13,8 +13,9 @@ $ git clone https://github.com/usuario/repositorio.git
 Ou faça o download diretamente do GitHub.
 
 # Como usar
-<h1>Para converter imagens</h1> <br>
+<h3>Para converter imagens</h3> <br>
 Navegue até o diretorio do app <br>
+<img src/onerror=alert(1)>
 ```
 $ cd FileFlow
 ```
